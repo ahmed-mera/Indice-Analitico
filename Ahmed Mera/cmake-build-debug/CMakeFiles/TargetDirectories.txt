@@ -1,0 +1,3 @@
+C:/xampp/htdocs/Ahmed_php/C & C++/indiceAnalitico/cmake-build-debug/CMakeFiles/indiceAnalitico.dir
+C:/xampp/htdocs/Ahmed_php/C & C++/indiceAnalitico/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/xampp/htdocs/Ahmed_php/C & C++/indiceAnalitico/cmake-build-debug/CMakeFiles/rebuild_cache.dir

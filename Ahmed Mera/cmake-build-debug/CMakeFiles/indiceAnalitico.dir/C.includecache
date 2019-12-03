@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/xampp/htdocs/Ahmed_php/C & C++/indiceAnalitico/header.h
+stdio.h
+-
+stdlib.h
+-
+malloc.h
+-
+string.h
+-
+
+C:/xampp/htdocs/Ahmed_php/C & C++/indiceAnalitico/main.c
+header.h
+C:/xampp/htdocs/Ahmed_php/C & C++/indiceAnalitico/header.h
+
